@@ -1,0 +1,9 @@
+body{
+    background-color: blueviolet;
+}
+*{
+    font-size: 50px;
+}
+h2,p{
+    background-color: beige;
+}
